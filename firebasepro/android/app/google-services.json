@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394813805020",
+    "firebase_url": "https://projectmini-48560.firebaseio.com",
+    "project_id": "projectmini-48560",
+    "storage_bucket": "projectmini-48560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394813805020:android:f02c52b6678ee9513d3f19",
+        "android_client_info": {
+          "package_name": "io.chalitarueng.firebasepro.firebasepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394813805020-fe94npbrf2tp70pd81k62iv1d4dm7o6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.chalitarueng.firebasepro.firebasepro",
+            "certificate_hash": "47f466631a6b84a2709659b6e54deec9b84972fd"
+          }
+        },
+        {
+          "client_id": "394813805020-e3hfqkcg8bqqtuqnb47tsmgaq1sbtsob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPSk9S2ON-SkPuh8szrYYR9mslGxLvGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394813805020-e3hfqkcg8bqqtuqnb47tsmgaq1sbtsob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
